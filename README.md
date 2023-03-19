@@ -15,7 +15,7 @@ Los sistemas de control se componen generalmente de tres partes principales:
 Estas tres partes están conectadas entre sí y trabajan en conjunto para asegurar que el proceso o sistema se mantenga dentro de los límites deseados.
 El diagrama de bloques de un sistema de control a lazo cerrado contiene los componentes mostrados en la figura 1.
  
-![Esquema_conexión_ESP_leds_relay](https://user-images.githubusercontent.com/72757419/226203373-bc58200d-10b8-481f-a1ef-ba72375dc73b.png)
+![diagrama de control](https://user-images.githubusercontent.com/72757419/226203537-e3684348-74f0-43a7-ac80-956b4a884aa9.jpg)
 
 Figura 1. Elementos de un sistema de control a lazo cerrado
 
