@@ -44,7 +44,7 @@ Realizar las siguientes actividades:
 
 1.	Armar el siguiente circuito con el material enlistado
   
-
+![Esquema_conexión_ESP_leds_relay](https://user-images.githubusercontent.com/72757419/226203462-9982a4d3-95fa-4b5c-84de-d348e5e37758.png)
 
 Figura 2. Diagrama del circuito
 
