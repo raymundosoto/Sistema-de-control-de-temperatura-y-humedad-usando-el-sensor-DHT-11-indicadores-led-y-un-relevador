@@ -37,7 +37,7 @@ Para esta práctica, El controlador ESP32 recopila la información del sensor DH
 - Gestor de tarjetas para ESP32 (preferencias >> gestor de URLs adicionales >> https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
 - Drivers para comunicación serial entre la computadora y el ESP32 (Revisar la documentación https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/establish-serial-connection.html, https://esp32.com/viewtopic.php?t=5329) 
 - Instalar la biblioteca DHT sensor library usando el gestor de librerías de arduino
-- Código para la programación del ESP32 con el algoritmo de control 
+- Código para la programación del ESP32 con el algoritmo de control     [Código  de control ](https://github.com/raymundosoto/Sistema-de-control-de-temperatura-y-humedad-usando-el-sensor-DHT-11-indicadores-led-y-un-relevador/blob/main/Codigo_ESP32_Relay_DHT11_leds/Codigo_ESP32_Relay_DHT11_leds.ino)
 
 # Desarrollo.
 Realizar las siguientes actividades:
