@@ -60,7 +60,7 @@ Comentarios sobre el código de arduino
 •	El código se encuentra en el material semanal de la materia 
 •	En la línea #define DHTTYPE DHT11 indicar si el sensor es el DHT11 o DHT22
 •	Modificar en la línea el valor del ciclo if el valor de t donde se desee que los leds indicadores se enciendan, cuando el valor este por encima de este umbral se encenderá el relay y el led rojo, cuando este por debajo se encenderá el led rojo.
-if (t <= 28) {
+``if (t <= 28) {
    digitalWrite(pin_led_v, HIGH);
    digitalWrite(pin_led_r, LOW);
    digitalWrite(pin_relay, LOW);
@@ -69,7 +69,7 @@ if (t <= 28) {
    digitalWrite(pin_led_v, LOW);
    digitalWrite(pin_relay, HIGH);
  }
-
+`
 # Resultados
 
 [En esta sección deberán colocar imágenes que permitan visualizar el armado del circuito, funcionamiento del circuito, programación del ESP32 y capturas de pantalla mostrando las mediciones del sensor en el monitor serial de Arduino, explicar cada una de las imágenes]
