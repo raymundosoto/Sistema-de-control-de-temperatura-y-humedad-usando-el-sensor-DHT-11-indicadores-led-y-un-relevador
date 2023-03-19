@@ -15,6 +15,7 @@ Los sistemas de control se componen generalmente de tres partes principales:
 Estas tres partes están conectadas entre sí y trabajan en conjunto para asegurar que el proceso o sistema se mantenga dentro de los límites deseados.
 El diagrama de bloques de un sistema de control a lazo cerrado contiene los componentes mostrados en la figura 1.
  
+![Esquema_conexión_ESP_leds_relay](https://user-images.githubusercontent.com/72757419/226203373-bc58200d-10b8-481f-a1ef-ba72375dc73b.png)
 Figura 1. Elementos de un sistema de control a lazo cerrado
 
 Para esta práctica, El controlador ESP32 recopila la información del sensor DHT11, y el relé se encarga de activar o desactivar un dispositivo de enfriamiento o calefacción según los parámetros establecidos en el controlador. En el diagrama, se muestra cómo los diferentes componentes están conectados entre sí. El sensor DHT11 está conectado al controlador ESP32 a través de un pin de entrada digital, y el relé se conecta a un pin de salida digital en el controlador. El controlador ESP32 recopila la información de temperatura y humedad del sensor DHT11, y utiliza un algoritmo de control para determinar si el dispositivo de enfriamiento o calefacción debe activarse o desactivarse. Si la temperatura o la humedad están por encima del valor deseado, el relé se activa y enciende el dispositivo de enfriamiento o calefacción. Si la temperatura o la humedad están dentro de los valores deseados, el relé se desactiva y el dispositivo de enfriamiento o calefacción se apaga, en nuestro caso no conectamos el relevador a ningún dispositivo, pero si así que quiere puede ir conectado a un ventilador (opcional).
@@ -42,7 +43,7 @@ Realizar las siguientes actividades:
 
 1.	Armar el siguiente circuito con el material enlistado
   
-![diagrama de control](https://user-images.githubusercontent.com/72757419/226203345-f63de123-f0d6-4e58-ad79-668bf0d2c5c2.jpg)
+
 
 Figura 2. Diagrama del circuito
 
