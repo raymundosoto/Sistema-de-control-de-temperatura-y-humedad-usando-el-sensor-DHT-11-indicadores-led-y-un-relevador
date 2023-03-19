@@ -88,10 +88,9 @@ Realizar este cuestionario con ayuda de la bibliografía
 
 # Conclusiones
 
-[ESTE SECCIÓN DEBERÁ SER EDITADA CON INFORMACIÓN QUE EL ALUMNO CREA CONVENIENTE SIGUIENDO LA GUÍA DE ELABORACIÓN DE CONCLUSIONES, TRATE DE PLASMAR TODAS LAS OBSERVACIONES Y CONOCIMIENTOS QUE OBTENGA, RECUERDA QUE LAS CONCLUSIONES DEBEN SER ACORDES A LOS OBJETIVOS] 
+En esta práctica el alumno construyó un prototipo de un dispositivo controlador de temperatura y humedad usando un controlador ESP32 y un relevador que puede ir conectado a un actuador (resistencia eléctrica, ventilador, aire acondicionado, motor, etc.) que trabaje a 120 volts. El alumno involucra los conocimientos de electrónica, programación y de análisis de sistemas y señales para aplicar de forma práctica el concepto de diagrama de bloquesy función de transferencia. A partir de esto el alumno podrá diseñar sus propios proyectos de análisis de sistemas y señales.   
 
-# Código fuente
-[INSERTA TODO EL CODIGO SIN ERRORES Y DEBIDAMENTE COMENTADO]
 
 # Bibliografía
-[COLOCAR LAS REFERENCIAS BIBLIOGRÁFICAS EN FORMATO APA]
+- Ogata, K. (2003). Ingeniería de control moderna. Pearson Educación.
+- Ogata, K. (1997). Introducción a los Sistemas de Control. Ingeniería de Control Moderna, Prentice Hall, 3ª Ed., México, 1-11.
