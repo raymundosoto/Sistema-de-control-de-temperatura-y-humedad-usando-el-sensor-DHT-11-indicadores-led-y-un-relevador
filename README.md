@@ -42,6 +42,7 @@ Realizar las siguientes actividades:
 
 1.	Armar el siguiente circuito con el material enlistado
   
+![diagrama de control](https://user-images.githubusercontent.com/72757419/226203345-f63de123-f0d6-4e58-ad79-668bf0d2c5c2.jpg)
 
 Figura 2. Diagrama del circuito
 
